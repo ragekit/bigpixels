@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+	<size width="1200" height="600"></size>
+	<video path="bd2.mov"></video>
+</config>
